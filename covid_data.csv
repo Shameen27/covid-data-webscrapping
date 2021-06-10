@@ -1,4 +1,5 @@
 sn,Country,Total cases,New cases,Total deaths,New deaths,Total recovered,New recovered,Active cases,Serious/Critical
+sn,Country,Total cases,New cases,Total deaths,New deaths,Total recovered,New recovered,Active cases,Serious/Critical
 ,1,USA,"34,264,727",,"613,494 ",,"28,254,091",,"5,397,142","5,083"
 ,2,India,"29,183,121","+1,049","359,695 ",,"27,655,493","+10,268","1,167,933","8,944"
 ,3,Brazil,"17,125,357",,"479,791 ",,"15,596,816",,"1,048,750","8,318"
